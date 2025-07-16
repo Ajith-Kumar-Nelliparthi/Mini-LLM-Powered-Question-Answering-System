@@ -3,9 +3,18 @@
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) system to answer queries from a PDF document (e.g., clinical guidelines) in a 4-hour time-boxed challenge. It handles PDF ingestion, chunking, embedding, vector storage, retrieval, and LLM-based answering.
 
+### Repository Structure
+```
+C:\Deep Learning Projects\mini_rag\
+├── rag_qa_system.ipynb
+├── README.md
+├── 9241544228_eng.pdf
+├── output\
+│   ├── answers.txt
+```
 ### Key Features
-- **Document Ingestion**: Uses `PyPDFLoader` to extract text from a PDF, fixing `WebBaseLoader` issue.
-- **Chunking**: Splits text into ~1000-character chunks with 200-character overlap using `RecursiveCharacterTextSplitter`.
+- **Document Ingestion**: Uses `PyPDFLoader` to extract text from a PDF.
+- **Chunking**: Splits text into ~4000-character chunks with 400-character overlap using `RecursiveCharacterTextSplitter`.
 - **Embedding**: `BAAI/bge-small-en-v1.5` for semantic embeddings with cosine similarity.
 - **Vector Store**: Chroma for persistent storage, replacing Astra DB.
 - **LLM**: `HuggingFaceH4/zephyr-7b-alpha` instead of `ChatGroq`, using `create_retrieval_chain` with custom prompt.
@@ -20,8 +29,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system to answer 
 - README generated using Grok 3 (xAI), as permitted.
 
 ## Data Schema
-- **Input**: A PDF file (`clinical_guidelines.pdf`) from Google Drive, containing medical text (e.g., ICD-10/DSM-5).
-- **Assumption**: PDF is downloaded to `C:\Deep Learning Projects\credit_scoring\clinical_guidelines.pdf`.
+- **Input**: A PDF file (`9241544228_eng.pdf`) from Google Drive, containing medical text (e.g., ICD-10/DSM-5).
+- **Assumption**: PDF is downloaded to `C:\Deep Learning Projects\mini_rag\9241544228_eng.pdf`.
 
 ## Methodology
 - **Ingestion**: `PyPDFLoader` extracts text from PDF pages.
