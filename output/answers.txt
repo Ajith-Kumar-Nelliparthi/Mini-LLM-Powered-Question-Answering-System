@@ -1,0 +1,286 @@
+Query: Give me the correct coded classification for the following diagnosis: Recurrent depressive disorder, currently in remission
+Answer: Human: 
+Answer the following question based only on the provided context.
+Think step by step before providing a detailed answer.
+I will tip you $1000 if the user finds the answer helpful.
+
+MENTAL AND BEHAVIOURAL DISORDERS
+F33.4 Recurrent depressive disorder, currently in remission
+Diagnostic guidelines
+For a definite diagnosis:
+(a) the criteria for recurrent depressive disorder (F33. -) should have
+been fulfilled in the past, but the current state should not fulfil
+the criteria for depressive episode of any degree of severity or
+for any other disorder in F30-F39; and
+(b) at least two episodes should have lasted a minimum of 2 weeks
+and should have been separated by several months without
+significant mood disturbance.
+Otherwise the diagnosis should be other recurrent mood [affective]
+disorder (F38.1).
+This category can still be used if the patient is receiving treatment
+to reduce the risk of further episodes.
+F33.8 Other recurrent depressive disorders
+F33.9 Recurrent depressive disorder, unspecified
+Includes: monopolar depression NOS
+|2£| Persistent mood [affective] disorders
+These are persistent and usually fluctuating disorders of mood in
+which individual episodes are rarely if ever sufficiently severe to
+warrant being described as hypomanic or even mild depressive
+episodes. Because they last for years at a time, and sometimes
+for the greater part of the individual's adult life, they involve
+considerable subjective distress and disability. In some instances,
+however, recurrent or single episodes of manic disorder, or mild
+or severe depressive disorder, may become superimposed on a
+persistent affective disorder. The persistent affective disorders are
+classified here rather than with the personality disorders because of
+evidence from family studies that they are genetically related to the
+mood disorders, and because they are sometimes amenable to the
+same treatments as mood disorders. Both early- and late-onset varieties
+of cyclothymia and dysthymia are described, and should be specified
+as such if required.
+128
+
+MENTAL AND BEHAVIOURAL DISORDERS
+F33.4 Recurrent depressive disorder, currently in remission
+Diagnostic guidelines
+For a definite diagnosis:
+(a) the criteria for recurrent depressive disorder (F33. -) should have
+been fulfilled in the past, but the current state should not fulfil
+the criteria for depressive episode of any degree of severity or
+for any other disorder in F30-F39; and
+(b) at least two episodes should have lasted a minimum of 2 weeks
+and should have been separated by several months without
+significant mood disturbance.
+Otherwise the diagnosis should be other recurrent mood [affective]
+disorder (F38.1).
+This category can still be used if the patient is receiving treatment
+to reduce the risk of further episodes.
+F33.8 Other recurrent depressive disorders
+F33.9 Recurrent depressive disorder, unspecified
+Includes: monopolar depression NOS
+|2£| Persistent mood [affective] disorders
+These are persistent and usually fluctuating disorders of mood in
+which individual episodes are rarely if ever sufficiently severe to
+warrant being described as hypomanic or even mild depressive
+episodes. Because they last for years at a time, and sometimes
+for the greater part of the individual's adult life, they involve
+considerable subjective distress and disability. In some instances,
+however, recurrent or single episodes of manic disorder, or mild
+or severe depressive disorder, may become superimposed on a
+persistent affective disorder. The persistent affective disorders are
+classified here rather than with the personality disorders because of
+evidence from family studies that they are genetically related to the
+mood disorders, and because they are sometimes amenable to the
+same treatments as mood disorders. Both early- and late-onset varieties
+of cyclothymia and dysthymia are described, and should be specified
+as such if required.
+128
+
+MENTAL AND BEHAVIOURAL DISORDERS
+F33.4 Recurrent depressive disorder, currently in remission
+Diagnostic guidelines
+For a definite diagnosis:
+(a) the criteria for recurrent depressive disorder (F33. -) should have
+been fulfilled in the past, but the current state should not fulfil
+the criteria for depressive episode of any degree of severity or
+for any other disorder in F30-F39; and
+(b) at least two episodes should have lasted a minimum of 2 weeks
+and should have been separated by several months without
+significant mood disturbance.
+Otherwise the diagnosis should be other recurrent mood [affective]
+disorder (F38.1).
+This category can still be used if the patient is receiving treatment
+to reduce the risk of further episodes.
+F33.8 Other recurrent depressive disorders
+F33.9 Recurrent depressive disorder, unspecified
+Includes: monopolar depression NOS
+|2£| Persistent mood [affective] disorders
+These are persistent and usually fluctuating disorders of mood in
+which individual episodes are rarely if ever sufficiently severe to
+warrant being described as hypomanic or even mild depressive
+episodes. Because they last for years at a time, and sometimes
+for the greater part of the individual's adult life, they involve
+considerable subjective distress and disability. In some instances,
+however, recurrent or single episodes of manic disorder, or mild
+or severe depressive disorder, may become superimposed on a
+persistent affective disorder. The persistent affective disorders are
+classified here rather than with the personality disorders because of
+evidence from family studies that they are genetically related to the
+mood disorders, and because they are sometimes amenable to the
+same treatments as mood disorders. Both early- and late-onset varieties
+of cyclothymia and dysthymia are described, and should be specified
+as such if required.
+128
+
+Question: Give me the correct coded classification for the following diagnosis: Recurrent depressive disorder, currently in remission
+
+Solution: F33.4 Recurrent depressive disorder, currently in remission.
+
+Explanation:
+The provided diagnosis is "Recurrent depressive disorder, currently in remission."
+
+The International Classification of Diseases (ICD) code for this diagnosis is F33.4.
+
+This code is used for recurrent depressive disorder, which is a mood disorder characterized by recurrent depressive episodes, where the current state does not meet the criteria for any depressive episode or other disorder in F30-F39.
+
+To arrive at this classification, the diagnostic guidelines provided in the ICD manual were followed. According to the guidelines, the diagnosis of recurrent depressive disorder requires a history of recurrent depressive episodes. The current state should not meet the criteria for any depressive episode or other disorder in F30-F39.
+
+In this case, the current state is in
+Sources:
+1. MENTAL AND BEHAVIOURAL DISORDERS
+F33.4 Recurrent depressive disorder, currently in remission
+Diagnos...
+2. MENTAL AND BEHAVIOURAL DISORDERS
+F33.4 Recurrent depressive disorder, currently in remission
+Diagnos...
+3. MENTAL AND BEHAVIOURAL DISORDERS
+F33.4 Recurrent depressive disorder, currently in remission
+Diagnos...
+
+Query: What are the diagnostic criteria for Obsessive-Compulsive Disorder (OCD)?
+Answer: Human: 
+Answer the following question based only on the provided context.
+Think step by step before providing a detailed answer.
+I will tip you $1000 if the user finds the answer helpful.
+
+F40-F48 NEUROTIC, STRESS-RELATED AND SOMATOFORM DISORDERS
+without obvious autonomic arousal are also common. There is
+a close relationship between obsessional symptoms, particularly
+obsessional thoughts, and depression. Individuals with obsessive-
+compulsive disorder often have depressive symptoms, and patients
+suffering from recurrent depressive disorder (F33.-) may develop
+obsessional thoughts during their episodes of depression. In either
+situation, increases or decreases in the severity of the depressive
+symptoms are generally accompanied by parallel changes in the
+severity of the obsessional symptoms.
+Obsessive - compulsive disorder is equally common in men and
+women, and there are often prominent anankastic features in the
+underlying personality. Onset is usually in childhood or early adult
+life. The course is variable and more likely to be chronic in the absence
+of significant depressive symptoms.
+Diagnostic guidelines
+For a definite diagnosis, obsessional symptoms or compulsive acts,
+or both, must be present on most days for at least 2 successive
+weeks and be a source of distress or interference with activities. The
+obsessional symptoms should have the following characteristics:
+(a) they must be recognized as the individual's own thoughts or
+impulses;
+(b) there must be at least one thought or act that is still resisted
+unsuccessfully, even though others may be present which the
+sufferer no longer resists;
+(c) the thought of carrying out the act must not in itself be pleasurable
+(simple relief of tension or anxiety is not regarded as pleasure
+in this sense);
+(d) the thoughts, images, or impulses must be unpleasantly repetitive.
+Includes: anankastic neurosis
+obsessional neurosis
+obsessive - compulsive neurosis
+Differential diagnosis. Differentiating between obsessive - compulsive
+disorder and a depressive disorder may be difficult because these
+two types of symptoms so frequently occur together. In an acute
+episode of disorder, precedence should be given to the symptoms
+that developed first; when both types are present but neither
+predominates, it is usually best to regard the depression as primary.
+143
+
+F40-F48 NEUROTIC, STRESS-RELATED AND SOMATOFORM DISORDERS
+without obvious autonomic arousal are also common. There is
+a close relationship between obsessional symptoms, particularly
+obsessional thoughts, and depression. Individuals with obsessive-
+compulsive disorder often have depressive symptoms, and patients
+suffering from recurrent depressive disorder (F33.-) may develop
+obsessional thoughts during their episodes of depression. In either
+situation, increases or decreases in the severity of the depressive
+symptoms are generally accompanied by parallel changes in the
+severity of the obsessional symptoms.
+Obsessive - compulsive disorder is equally common in men and
+women, and there are often prominent anankastic features in the
+underlying personality. Onset is usually in childhood or early adult
+life. The course is variable and more likely to be chronic in the absence
+of significant depressive symptoms.
+Diagnostic guidelines
+For a definite diagnosis, obsessional symptoms or compulsive acts,
+or both, must be present on most days for at least 2 successive
+weeks and be a source of distress or interference with activities. The
+obsessional symptoms should have the following characteristics:
+(a) they must be recognized as the individual's own thoughts or
+impulses;
+(b) there must be at least one thought or act that is still resisted
+unsuccessfully, even though others may be present which the
+sufferer no longer resists;
+(c) the thought of carrying out the act must not in itself be pleasurable
+(simple relief of tension or anxiety is not regarded as pleasure
+in this sense);
+(d) the thoughts, images, or impulses must be unpleasantly repetitive.
+Includes: anankastic neurosis
+obsessional neurosis
+obsessive - compulsive neurosis
+Differential diagnosis. Differentiating between obsessive - compulsive
+disorder and a depressive disorder may be difficult because these
+two types of symptoms so frequently occur together. In an acute
+episode of disorder, precedence should be given to the symptoms
+that developed first; when both types are present but neither
+predominates, it is usually best to regard the depression as primary.
+143
+
+F40-F48 NEUROTIC, STRESS-RELATED AND SOMATOFORM DISORDERS
+without obvious autonomic arousal are also common. There is
+a close relationship between obsessional symptoms, particularly
+obsessional thoughts, and depression. Individuals with obsessive-
+compulsive disorder often have depressive symptoms, and patients
+suffering from recurrent depressive disorder (F33.-) may develop
+obsessional thoughts during their episodes of depression. In either
+situation, increases or decreases in the severity of the depressive
+symptoms are generally accompanied by parallel changes in the
+severity of the obsessional symptoms.
+Obsessive - compulsive disorder is equally common in men and
+women, and there are often prominent anankastic features in the
+underlying personality. Onset is usually in childhood or early adult
+life. The course is variable and more likely to be chronic in the absence
+of significant depressive symptoms.
+Diagnostic guidelines
+For a definite diagnosis, obsessional symptoms or compulsive acts,
+or both, must be present on most days for at least 2 successive
+weeks and be a source of distress or interference with activities. The
+obsessional symptoms should have the following characteristics:
+(a) they must be recognized as the individual's own thoughts or
+impulses;
+(b) there must be at least one thought or act that is still resisted
+unsuccessfully, even though others may be present which the
+sufferer no longer resists;
+(c) the thought of carrying out the act must not in itself be pleasurable
+(simple relief of tension or anxiety is not regarded as pleasure
+in this sense);
+(d) the thoughts, images, or impulses must be unpleasantly repetitive.
+Includes: anankastic neurosis
+obsessional neurosis
+obsessive - compulsive neurosis
+Differential diagnosis. Differentiating between obsessive - compulsive
+disorder and a depressive disorder may be difficult because these
+two types of symptoms so frequently occur together. In an acute
+episode of disorder, precedence should be given to the symptoms
+that developed first; when both types are present but neither
+predominates, it is usually best to regard the depression as primary.
+143
+
+Question: What are the diagnostic criteria for Obsessive-Compulsive Disorder (OCD)?
+
+Answer: According to the given text, for a definite diagnosis of OCD, obsessional symptoms or compulsive acts, or both, must be present on most days for at least 2 successive weeks and cause distress or interference with activities. The obsessional symptoms should have the following characteristics:
+
+1. Recognized as the individual's own thoughts or impulses.
+
+2. At least one thought or act that is still resisted unsuccessfully, even if others are present that the sufferer no longer resists.
+
+3. The thought of carrying out the act is not pleasurable in itself (simple relief of tension or anxiety is not regarded as pleasure in this sense).
+
+4. The thoughts, images, or impulses are unpleasantly repetitive.
+
+The text also notes that OCD is equally common in men and women and has often prominent anankastic features in the underlying personality.
+Sources:
+1. F40-F48 NEUROTIC, STRESS-RELATED AND SOMATOFORM DISORDERS
+without obvious autonomic arousal are also...
+2. F40-F48 NEUROTIC, STRESS-RELATED AND SOMATOFORM DISORDERS
+without obvious autonomic arousal are also...
+3. F40-F48 NEUROTIC, STRESS-RELATED AND SOMATOFORM DISORDERS
+without obvious autonomic arousal are also...
+
